@@ -1,0 +1,15 @@
+---
+title: "About"
+---
+
+This page contains a short academic biography and contact information.
+
+## Contact
+
+- GitHub: <https://github.com/Yixiaotiaoren>
+- Email: your.email@example.com
+
+## Links
+
+- Google Scholar: Add your profile link
+- ORCID: Add your ORCID link

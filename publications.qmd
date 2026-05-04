@@ -1,0 +1,11 @@
+---
+title: "Publications"
+---
+
+## Selected Publications
+
+1. Author Name, Coauthor Name. "Paper Title." *Venue*, Year.
+
+## Preprints
+
+1. Author Name, Coauthor Name. "Preprint Title." arXiv, Year.

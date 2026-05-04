@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Yixiaotiaoren"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: About
+        href: about.qmd
+  page-footer:
+    center: "© 2026 Yixiaotiaoren"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css

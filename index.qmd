@@ -1,0 +1,17 @@
+---
+title: "Yixiaotiaoren"
+---
+
+Welcome to my academic website.
+
+I am interested in machine learning, scientific computing, and statistical inference.
+
+## Research Interests
+
+- Machine learning
+- Scientific computing
+- Bayesian inference
+
+## News
+
+- 2026-05: Website launched.
